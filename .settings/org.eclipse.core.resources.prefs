@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/caifengapp.py=utf-8
+encoding//src/common/pathconfig.py=utf-8
+encoding//src/common/stringutil.py=utf-8
+encoding//src/diaowenapp.py=utf-8
+encoding//src/domain/caifeng.py=utf-8
+encoding//src/domain/diaowen.py=utf-8
+encoding//src/domain/duanzao.py=utf-8
+encoding//src/domain/fumo.py=utf-8
+encoding//src/domain/product.py=utf-8
+encoding//src/domain/zhipi.py=utf-8
+encoding//src/duanzaoapp.py=utf-8
+encoding//src/fumoapp.py=utf-8
+encoding//src/zhipiapp.py=utf-8
+encoding//test/test/Test.py=utf-8
+encoding//test/test/test2.py=utf-8
+encoding//test/test/test3.py=utf-8
